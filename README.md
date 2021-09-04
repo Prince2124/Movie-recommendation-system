@@ -9,10 +9,15 @@ There are two data file:
 'item_id' and 'title'.
 # Approaches Tried
 A. Deleting Unnecessary Columns
+
 B. Data Cleaning
+
 C. We meerge them together on item_id
+
 D. Remove the NaN values from the dataset .Combining the files and making a pivot table
+
 E. We used Cosine Similarity for finding the similarity between 2 movies.
+
 F. We used K-Nearest Neighbors (e.g. K=6) find 6 most similar movies. These 6 movies will help in predicting for our desired movie. 
 
 
